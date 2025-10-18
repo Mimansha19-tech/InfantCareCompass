@@ -125,6 +125,28 @@ Make InfantCareCompass the trusted, easy‑to‑use companion for new and expect
 </p>
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+ --
+ ## 🌟GSSoc 
+
+![GSSoC Logo](https://github.com/dimpal-yadav/Foodie/blob/main/images/GSSoC.png)
+
+🌟 **Exciting News...**
+
+🚀 This project is now an official part of GirlScript Summer of Code – GSSoC'25! 💻 We're thrilled to welcome contributors from all over India and beyond to collaborate, build, and grow *InfantCareCompass!* Let’s make learning and career development smarter – together! 🌟
+
+GSSoC is one of India’s **largest 3-month-long open-source programs** that encourages developers of all levels to contribute to real-world projects while learning, collaborating, and growing together.
+
+🌈 With **mentorship, community support**, and **collaborative coding**, it's the perfect platform for developers to:
+
+- ✨ Improve their skills
+- 🤝 Contribute to impactful projects
+- 🏆 Get recognized for their work
+- 📜 Receive certificates and swag!
+
+🎉 **I can’t wait to welcome new contributors** from GSSoC 2025 to this *InfantCareCompass* project family! Let's build, learn, and grow together — one commit at a time. 
+
+---
+
  
 ##  Getting Started
 
